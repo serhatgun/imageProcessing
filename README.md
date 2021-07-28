@@ -1,1 +1,3 @@
 # imageProcessing
+
+This repository contains the implementation of the main and advanced image processing tecniques. Please be advised, not all of the functions work smoothly and may need fixes. Help feature and example usage will be added soon...
